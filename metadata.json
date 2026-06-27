@@ -1,0 +1,6 @@
+{
+  "name": "EInvite Articles & Resources",
+  "description": "A premium digital wedding planning resources and knowledge hub, featuring expert guides, interactive RSVP tracking, and elegant custom invitation templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
